@@ -1,0 +1,50 @@
+{
+  "todo": [
+    {
+      "isFinished": true,
+      "activity": "Makan",
+      "id": 1
+    },
+    {
+      "isFinished": true,
+      "activity": "Mandi",
+      "id": 2
+    },
+    {
+      "isFinished": false,
+      "activity": "Coding",
+      "id": 3
+    },
+    {
+      "isFinished": false,
+      "activity": "Tidur",
+      "id": 4
+    },
+    {
+      "isFinished": false,
+      "activity": "Design",
+      "id": 7
+    },
+    {
+      "isFinished": false,
+      "activity": "Programming",
+      "id": 8
+    },
+    {
+      "activity": "Gaming",
+      "isFinished": false,
+      "id": 9
+    },
+    {
+      "activity": "Development",
+      "isFinished": false,
+      "id": 10
+    },
+    {
+      "activity": "Mandi",
+      "isFinished": false,
+      "id": 11
+    }
+  ],
+  "users": []
+}
